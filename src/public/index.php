@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>This is my Portfolio</h1>
-    <p>Some text!</p>
+    <p>Some text to test out this website!</p>
 
     <!-- <script src="main.js"></script> -->
 </body>
